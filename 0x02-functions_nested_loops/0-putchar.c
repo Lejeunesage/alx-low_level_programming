@@ -1,4 +1,8 @@
 #include "main.h"
+/**
+ * main - prints the string "Putchar" from a character array.
+ * Return: 0 on success.
+ */
 int main(void)
 {
 	_putchar('_');
